@@ -1,0 +1,12 @@
+name: itczmip
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - xarray
+  - matplotlib
+  - netcdf4
+  - numpy
+  - scipy
+  - jupyterlab
+prefix: /Users/agp93/miniconda3/envs/itczmip
