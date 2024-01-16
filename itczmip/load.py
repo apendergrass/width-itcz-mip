@@ -2,7 +2,7 @@ import os
 import xarray as xr
 
 def load_data(model, experiment_list):
-    root_dir = os.path.join('../data', model)
+    root_dir = os.path.join('data', model)
     
     filenames = define_filenames(model)
     dim_dict = define_dimension_rename_dict()

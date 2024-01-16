@@ -4,9 +4,9 @@ channels:
   - defaults
 dependencies:
   - xarray
-  - matplotlib
-  - netcdf4
-  - numpy
   - scipy
   - jupyterlab
-prefix: /Users/agp93/miniconda3/envs/itczmip
+  - netcdf4
+  - matplotlib
+  - numpy
+prefix: /Users/angelinependergrass/miniconda3/envs/itczmip
